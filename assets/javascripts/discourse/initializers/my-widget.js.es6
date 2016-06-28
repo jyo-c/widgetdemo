@@ -5,4 +5,4 @@ import { createWidget } from 'discourse/widgets/widget';
       return "hello world";
     }*/
     console.log("calling the initializer in git");
-  });
+  //});
